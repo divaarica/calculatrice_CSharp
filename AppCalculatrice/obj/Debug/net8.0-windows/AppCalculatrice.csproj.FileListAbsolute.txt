@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.Form1.resources
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.Properties.Resources.resources
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.AssemblyInfo.cs
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\bin\Debug\net8.0-windows\AppCalculatrice.exe
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\bin\Debug\net8.0-windows\AppCalculatrice.deps.json
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\bin\Debug\net8.0-windows\AppCalculatrice.runtimeconfig.json
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\bin\Debug\net8.0-windows\AppCalculatrice.dll
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\bin\Debug\net8.0-windows\AppCalculatrice.pdb
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.dll
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\refint\AppCalculatrice.dll
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.pdb
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\AppCalculatrice.genruntimeconfig.cache
+C:\Users\user\source\repos\AppCalculatrice\AppCalculatrice\obj\Debug\net8.0-windows\ref\AppCalculatrice.dll
